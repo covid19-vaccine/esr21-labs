@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Pydenv project settings
+.project
+.pydevproject
+.settings
